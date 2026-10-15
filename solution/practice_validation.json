@@ -1,0 +1,17 @@
+{
+  "phase": "practice",
+  "event_count": 120,
+  "tp": 33,
+  "fp": 0,
+  "fn": 0,
+  "tn": 87,
+  "n_faulty": 33,
+  "n_clean": 87,
+  "tpr": 1.0,
+  "fpr": 0.0,
+  "cost_overage": 0.0,
+  "score": 50.0,
+  "cost_ledger": 180.0,
+  "budget": 220.0,
+  "mismatches": []
+}
